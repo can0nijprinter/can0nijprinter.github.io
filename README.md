@@ -1,7 +1,7 @@
 #  IJ Start Canon Setup
 
 
-[![canon.com/ijsetup](Get Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+[![canon.com/ijsetup](get-started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
  
 What is the purpose of a printer driver? A printer driver makes the connection between printer and device easy. Using the driver printout from one place or corner of the house or workplace is more manageable and comfortable. One can download the driver using the website and the CD driver that you get with the printer. Similarly, to download the driver for the Canon Ij Pixma printer, use **[ij.start.canon setup](https://ij-start-setup.github.io/)** website.
